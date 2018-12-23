@@ -1,0 +1,1 @@
+ALTER TABLE tb_user ADD country varchar(50);

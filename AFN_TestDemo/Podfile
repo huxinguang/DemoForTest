@@ -1,0 +1,12 @@
+platform :ios, '7.0'
+target 'AFN_TestDemo' do
+pod 'AFNetworking', '~> 3.2.0'
+pod 'MJExtension', '~> 3.0.13'
+pod 'SDWebImage', '~> 4.3.3'
+pod 'Aspects', '~> 1.4.1'
+pod 'YYKit', '~> 1.0.9'
+pod 'UITableView+FDTemplateLayoutCell', '~> 1.6'
+pod 'FMDB', '~> 2.7.2'
+pod 'FMDBMigrationManager', '~> 1.4.1'
+pod 'AvoidCrash', '~> 2.5.2'
+end
